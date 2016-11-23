@@ -25,6 +25,7 @@ Observe the files in this repo:
     </div>
 ```  
 * Use the appropriate `HTML` syntax to format the code until the preview looks like `result.png`.
+* HINT: To make your `code` show up in red, surround it with the proper open/close `<code>` tags.
 * Mirror your `master` branch with a `gh-pages` branch and `push`.
 * If you finish early, add a section to the bottom with links to helpful resources for learning more HTML Basics.
 
